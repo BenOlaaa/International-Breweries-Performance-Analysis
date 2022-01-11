@@ -1,5 +1,5 @@
 # International-Breweries-Performance-Analysis
-This analysis was performed to review the performance of the International Breweries between 2017-2019.
+This analysis was performed to review the performance of the International Breweries company between 2017-2019.
 
 ![1](https://user-images.githubusercontent.com/53540261/149030075-ea6e354a-9f3d-4d18-b3e0-476c968cb6a1.png)
 ![2](https://user-images.githubusercontent.com/53540261/149030084-c42fd86d-c0ce-4671-bf44-b5951c3c4fe9.png)
